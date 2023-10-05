@@ -4,8 +4,8 @@ A16269813 <br>
 1. I have completed the survey.
 2. 
    (a) I think each circle is labeled with a unique binary code with 2 bit, and their overlap is labeled with the sum of the two labels.<br>
-   (b) ![Image](1.jpeg)<br>
-   (c) ![Image](2.jpeg)<br>
+   (b) ![Image](1.png)<br>
+   (c) ![Image](2.png)<br>
    (d) There are 2 codes (1010, 0101) missing from the Venn diagram with 4 circles. Since there are 14 regions including the region outside, and there are 16 unique 4-bit binary strings, there should be 16 regions including the region outside in order to have each 4-bit binary string used exactly once.<br>
    (e) I think this Venn diagram is better than the one with circles. Although it looks really messy, it solves the problem by having 16 regions, including the outside region. The Venn diagram with circles is missing the occasion where only the opposite vertices circles overlap, which is gladly solved by the Venn diagram with ellipse.
 3. Computing the first few terms:<br>
